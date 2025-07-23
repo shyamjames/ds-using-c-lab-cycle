@@ -1,3 +1,7 @@
+/*
+Sort the array elements in ascending order(minimum 3 functions: read display and sort)
+*/
+
 #include <stdio.h>
 
 int a[5];

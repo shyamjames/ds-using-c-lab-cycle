@@ -1,3 +1,8 @@
+/*
+Menu driven program to insert, search, delete and sort elements in an array using functions
+(use only local variables)
+*/
+
 #include <stdio.h>
 #define MAX 10
 

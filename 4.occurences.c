@@ -1,3 +1,7 @@
+/*
+Search for all the occurences of an element in an integer array!
+*/
+
 #include <stdio.h>
 
 void occurences(int a[],int n){
