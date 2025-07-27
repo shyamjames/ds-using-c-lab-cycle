@@ -6,6 +6,7 @@ Sort the array elements in ascending order(minimum 3 functions: read display and
 
 int a[5];
 
+// Function to read elements into the array
 void read(){
     printf("Enter the elements of the array:\n");
     int i;
@@ -15,6 +16,7 @@ void read(){
     }
 }
 
+// Function to display the elements of the array
 void disp(){
     int i;
     for(i=0;i<5;i++){
@@ -22,6 +24,7 @@ void disp(){
     }
 }
 
+// Function to sort the array in ascending order
 void arraySort(){
     int temp,i,j;
     for (i = 0; i < 5; ++i) {
