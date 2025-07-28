@@ -1,3 +1,7 @@
+/*
+15.	Read n Strings and display them in the ascending order.
+*/
+
 #include <stdio.h>
 #include <string.h>
 
